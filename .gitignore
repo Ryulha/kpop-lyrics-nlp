@@ -218,3 +218,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+cat > .gitignore <<'EOF'
+# Data
+data/raw/*
+data/interim/*
+data/processed/*
+data/external/*
+!data/**/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+EOF
