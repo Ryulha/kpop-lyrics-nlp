@@ -105,3 +105,14 @@ webcolors==25.10.0
 webencodings==0.6.1
 websocket-client==1.9.2
 widgetsnbextension==4.0.16
+
+# Analysis (06–08)
+scipy>=1.11
+statsmodels>=0.14
+scikit-posthocs>=0.9
+pymannkendall>=1.4
+lexicalrichness
+py3langid>=0.3
+wordfreq>=3.0
+spacy>=3.7
+# spaCy model (08): python -m spacy download en_core_web_sm
