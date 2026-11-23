@@ -1,0 +1,7 @@
+﻿perspective,feature,all: epsilon2,all: rho,all: significant,within: epsilon2,within: rho,within: significant,regression: coef 4th (adj),regression: significant,same direction
+English frequency,en_ratio,0.063,0.233,yes,0.098,0.299,yes,0.2804,yes,yes
+Phrase length,phrase_len_mean,0.001,-0.011,no,0.003,-0.005,no,0.1401,no,yes
+Lexical diversity,mtld,0.041,-0.08,yes,0.01,-0.006,no,-2.8162,yes,yes
+Lexical diversity,ttr,0.013,-0.024,yes,0.013,-0.009,no,-0.0243,yes,yes
+Code-switching,cs_per100,0.05,0.208,yes,0.069,0.252,yes,2.9696,yes,yes
+Code-switching,cs_inter_per100,0.059,0.235,yes,0.057,0.235,yes,3.4828,yes,yes
